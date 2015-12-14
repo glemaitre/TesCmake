@@ -12,6 +12,7 @@
  */
 
 #include "Harris3D.h"
+#include <algorithm>
 
 Harris3D::Harris3D() 
 {
