@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/Harris3D.cpp.o CMakeFiles/common.dir/iofile.cpp.o CMakeFiles/common.dir/mapper.cpp.o CMakeFiles/common.dir/nodata.cpp.o CMakeFiles/common.dir/Vertex.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libcommon.a

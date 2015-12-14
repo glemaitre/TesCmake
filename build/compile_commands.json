@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/lemaitrecedric/Documents/learning/projet-test/build/common",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -I/Users/lemaitrecedric/Documents/learning/projet-test/src -I/Users/lemaitrecedric/Documents/learning/projet-test/build  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -Wno-deprecated-register -Qunused-arguments -Wno-unused-const-variable -fcolor-diagnostics   -o CMakeFiles/common.dir/Harris3D.cpp.o -c /Users/lemaitrecedric/Documents/learning/projet-test/src/common/Harris3D.cpp",
+  "file": "/Users/lemaitrecedric/Documents/learning/projet-test/src/common/Harris3D.cpp"
+},
+{
+  "directory": "/Users/lemaitrecedric/Documents/learning/projet-test/build/common",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -I/Users/lemaitrecedric/Documents/learning/projet-test/src -I/Users/lemaitrecedric/Documents/learning/projet-test/build  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -Wno-deprecated-register -Qunused-arguments -Wno-unused-const-variable -fcolor-diagnostics   -o CMakeFiles/common.dir/iofile.cpp.o -c /Users/lemaitrecedric/Documents/learning/projet-test/src/common/iofile.cpp",
+  "file": "/Users/lemaitrecedric/Documents/learning/projet-test/src/common/iofile.cpp"
+},
+{
+  "directory": "/Users/lemaitrecedric/Documents/learning/projet-test/build/common",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -I/Users/lemaitrecedric/Documents/learning/projet-test/src -I/Users/lemaitrecedric/Documents/learning/projet-test/build  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -Wno-deprecated-register -Qunused-arguments -Wno-unused-const-variable -fcolor-diagnostics   -o CMakeFiles/common.dir/mapper.cpp.o -c /Users/lemaitrecedric/Documents/learning/projet-test/src/common/mapper.cpp",
+  "file": "/Users/lemaitrecedric/Documents/learning/projet-test/src/common/mapper.cpp"
+},
+{
+  "directory": "/Users/lemaitrecedric/Documents/learning/projet-test/build/common",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -I/Users/lemaitrecedric/Documents/learning/projet-test/src -I/Users/lemaitrecedric/Documents/learning/projet-test/build  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -Wno-deprecated-register -Qunused-arguments -Wno-unused-const-variable -fcolor-diagnostics   -o CMakeFiles/common.dir/nodata.cpp.o -c /Users/lemaitrecedric/Documents/learning/projet-test/src/common/nodata.cpp",
+  "file": "/Users/lemaitrecedric/Documents/learning/projet-test/src/common/nodata.cpp"
+},
+{
+  "directory": "/Users/lemaitrecedric/Documents/learning/projet-test/build/common",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -I/Users/lemaitrecedric/Documents/learning/projet-test/src -I/Users/lemaitrecedric/Documents/learning/projet-test/build  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -Wno-deprecated-register -Qunused-arguments -Wno-unused-const-variable -fcolor-diagnostics   -o CMakeFiles/common.dir/Vertex.cpp.o -c /Users/lemaitrecedric/Documents/learning/projet-test/src/common/Vertex.cpp",
+  "file": "/Users/lemaitrecedric/Documents/learning/projet-test/src/common/Vertex.cpp"
+},
+{
+  "directory": "/Users/lemaitrecedric/Documents/learning/projet-test/build/apps",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -I/Users/lemaitrecedric/Documents/learning/projet-test/src -I/Users/lemaitrecedric/Documents/learning/projet-test/build -I/Users/lemaitrecedric/Documents/learning/projet-test/src/apps/../common  -std=c++11 -Wextra -Wall -Wno-delete-non-virtual-dtor -Werror=return-type -Wno-deprecated-register -Qunused-arguments -Wno-unused-const-variable -fcolor-diagnostics   -o CMakeFiles/main.dir/main.cpp.o -c /Users/lemaitrecedric/Documents/learning/projet-test/src/apps/main.cpp",
+  "file": "/Users/lemaitrecedric/Documents/learning/projet-test/src/apps/main.cpp"
+}
+]
